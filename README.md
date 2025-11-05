@@ -26,13 +26,17 @@ This web app replaces manual, paper-based systems — improving **transparency, 
 
 ---
 
-## 🧑‍💻 Project Information
+## 👩‍💻 Project Team
 
-| Role | Name |
-|------|------|
-| **Project Lead & Deployment Lead** | **Shrutika Pawar** |
+| Name | Role | Responsibilities |
+|------|------|------------------|
+| **Shrutika Pawar** | **Project Lead & Deployment Lead** | Coordinated project workflow, conducted weekly status briefings, managed version control, and handled application deployment. |
+| **Nutan Khandave** | **Frontend Developer & UI Designer** | Built responsive UI/UX using Next.js and Tailwind CSS, ensuring accessibility and smooth user interaction.|
+| **Ketakee Patil** | **Database & Deployment** | Handled MongoDB schema design, database operations, and deployment management using Vercel. |
+| **Jayshree Patil** | **Backend Developer** | Developed APIs and authentication system with Node.js, Next.js API routes, and MongoDB integration. |
+| **P. D. Jadhav** | **HOD** | Provided guidance and supervision throughout the project development, ensuring alignment with academic standards. |
+| **Prof. Sonali Vidhate** | **Project Coordinator (CC)** | Supported and monitored project progress, providing valuable feedback and mentoring the team. |
 
-> Coordinated project workflow, conducted weekly status briefings, managed version control, and handled application deployment.
 
 ---
 
