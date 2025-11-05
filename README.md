@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">🌿 CMCS Leave Management System (LMS)</h1>
 
-## Getting Started
+<p align="center">
+  A modern and digital approach to managing college leave applications — built with <b>Next.js 15</b>, <b>MongoDB</b>, and <b>Cloudinary</b>.  
+  Customized for <b>CMCS College of Nashik</b> 🎓
+</p>
 
-First, run the development server:
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Cloudinary-Media-blue?style=for-the-badge&logo=cloudinary" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel" />
+</p>
 
+---
+
+## ✨ Overview
+
+The **Leave Management System (LMS)** simplifies and digitizes the process of applying for and approving college leaves.  
+This web app replaces manual, paper-based systems — improving **transparency, speed, and accuracy**.
+
+🔹 Students can apply for leave online.  
+🔹 Faculty and admins can review and approve requests seamlessly.  
+🔹 All records are stored securely and accessible anytime.
+
+---
+
+## 🧑‍💻 Project Information
+
+| Role | Name |
+|------|------|
+| **Project Lead & Deployment Lead** | **Shrutika Pawar** |
+
+> Coordinated project workflow, conducted weekly status briefings, managed version control, and handled application deployment.
+
+---
+
+## ⚙️ Tech Stack
+
+| Category | Technologies Used |
+|-----------|-------------------|
+| **Frontend** | Next.js 15, Tailwind CSS |
+| **Backend** | Next.js API Routes |
+| **Database** | MongoDB Atlas |
+| **Media Storage** | Cloudinary |
+| **Authentication** | NextAuth.js |
+| **Deployment** | Vercel |
+
+---
+
+## 🚀 Features
+
+✅ Role-based access — Students, Faculty, and Administrators  
+✅ Leave tracking dashboard  
+✅ Real-time updates and email notifications  
+✅ Responsive UI with Tailwind CSS  
+✅ Cloudinary for profile image uploads  
+✅ Progressive Web App (PWA) support  
+✅ Centralized and secure data management  
+
+---
+
+## 🧰 Setup Instructions
+
+### 1️⃣ Clone this repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/<your-username>/CMCS-LeaveDesk.git
+cd CMCS-LeaveDesk
