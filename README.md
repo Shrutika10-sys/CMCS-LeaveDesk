@@ -65,9 +65,9 @@ This web app replaces manual, paper-based systems — improving **transparency, 
 
 ---
 
-## 🧰 Setup Instructions
+## 🚀 Deployment
 
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/<your-username>/CMCS-LeaveDesk.git
-cd CMCS-LeaveDesk
+The project is deployed on *Vercel* using continuous deployment from GitHub.  
+Every push to the main branch automatically rebuilds and updates the live site.  
+
+🔗 *Live URL:* [https://cmcs-leave-desk.vercel.app](https://cmcs-leave-desk.vercel.app)
